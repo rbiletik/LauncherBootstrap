@@ -1,6 +1,6 @@
 class Config {
   static final Uri launcherJarUrl =
-      Uri.parse('http://92.246.143.247:9274/CubixCraft.jar');
+      Uri.parse('http://localhost:9274/Launcher.jar');
 
-  static final String projectDirectoryName = 'CubixCraft';
+  static final String projectDirectoryName = 'RustGo';
 }
